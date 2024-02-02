@@ -9,7 +9,7 @@
 
 }
 .footer_icons{
-    width: 12%;
+width: 12%;
 display: flex;
 justify-content: space-between;
 margin-left: 10px;
@@ -31,7 +31,7 @@ color: white;
     cursor: pointer;
 }
 .service_code{
-    display: flex;
+display: flex;
 align-items: center;
 justify-content: center;
 border: white 1px solid ;

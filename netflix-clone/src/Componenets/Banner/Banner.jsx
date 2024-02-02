@@ -33,8 +33,8 @@ const Banner = () => {
           }}
       >
           <div className="banner__contents">
-              <h1 className="banner__title">
-                  {movie?.title || movie?.name || movie?.original_name}
+              <h1 className="banner__title">  
+                   {movie?.title || movie?.name || movie?.original_name}
               </h1>
               <div className="banner__buttons">
                   <button className="banner__button play">Play</button>
@@ -48,3 +48,4 @@ const Banner = () => {
 }
 
 export default Banner
+// https://youtu.be/XhoWXhyuW_I?si=7DI8OHn51K6zbt0N
